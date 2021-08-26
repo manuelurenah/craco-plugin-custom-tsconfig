@@ -1,6 +1,6 @@
 {
   "name": "craco-plugin-custom-tsconfig",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Load a custom tsconfig.json file when building your project with craco",
   "types": "index.d.ts",
   "main": "index.js",
